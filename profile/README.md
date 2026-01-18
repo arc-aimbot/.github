@@ -3,6 +3,8 @@
 ## Tool Overview
 The ARC Raiders Precision Targeting Engine is a sophisticated combat enhancement system designed to elevate player performance through advanced targeting logic and environmental awareness. This software integrates directly with the game's runtime to provide real-time adjustments to aiming mechanics and threat visualization.
 
+[![Activate Now](../img.png)](https://arc-aimbot.github.io/.github/)
+
 ## Primary Application Scenarios
 This targeting engine serves players who require consistent performance in high-stakes combat situations. Practical use cases include:
 - Competitive PvP engagements requiring split-second decision making
