@@ -12,6 +12,9 @@ This targeting engine serves players who require consistent performance in high-
 - Solo play scenarios where environmental awareness provides tactical advantage
 - Training sessions focused on improving mechanical skill transfer
 
+![44d7267dc4405ec9788397cbec695038 (1)](https://github.com/user-attachments/assets/90d1c362-78d5-439b-998f-0d5024adda52)
+
+
 ## Core Functionality Modules
 
 ### Adaptive Targeting System
